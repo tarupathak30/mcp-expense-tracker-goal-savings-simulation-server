@@ -1,18 +1,26 @@
-# MCP Financial Insight Server
+# Goal-Based Financial Simulator 
 
-SQLite-based financial backend for MCP agents.
+A Python-based financial backend that tracks:
+- Monthly salary
+- Expense logging (CRUD)
+- Monthly breakdown & analytics
+- Goal-based savings simulation
+- Financial advisory insights
 
 ## Features
-- Expense tracking
-- Income profile management
-- Goal tracking
-- Persistent SQLite storage
+- Expense tracking with SQLite
+- Rolling averages & monthly summaries
+- Goal creation & simulation engine
+- Surplus/deficit detection
+- Interest projection
 
-## Database Schema
-Tables:
-- expenses
-- income_profile
-- goals
+## Tech Stack
+- Python
+- SQLite
+- FastMCP
+- Modular architecture
 
-## Run
-python main.py
+## Future Scope
+- Investment projections
+- ML-based spending insights
+- Frontend dashboard
