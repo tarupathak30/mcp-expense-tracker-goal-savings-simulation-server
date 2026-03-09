@@ -1,8 +1,7 @@
-![Python](https://img.shields.io/badge/python-3.10-blue)
+![Python](https://img.shields.io/badge/python-3.11-blue)
 ![Database](https://img.shields.io/badge/database-SQLite-lightgrey)
 ![Protocol](https://img.shields.io/badge/MCP-FastMCP-purple)
 ![AI Tool](https://img.shields.io/badge/LLM-Claude-orange)
-![License](https://img.shields.io/badge/license-MIT-green)
 
 
 # Goal-Based Financial Simulator 
